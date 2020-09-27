@@ -16,6 +16,7 @@ public class ex2 {
         System.out.println("Area Of A Circle: " + areaOfCircle);
     }
 
+
     private static float getDiameterFromUser() {
         Scanner scanner = new Scanner(System.in);
         float diameter = 0;
